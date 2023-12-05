@@ -1,4 +1,7 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+This is a complimentary demo repo to perf workshop on React Native performance
+
+- [Part1 slides](https://slides.com/vladimirnovick/advanced-cmp-hooks-best-practices)
+- [Part2 slides](https://slides.com/vladimirnovick/advanced-component-hooks-design-rn-best-practices-part2)
 
 # Getting Started
 
